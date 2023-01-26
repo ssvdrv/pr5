@@ -1,0 +1,12 @@
+C:\Users\Daria\source\repos\WinForm123\bin\Debug\WinForm123.exe.config
+C:\Users\Daria\source\repos\WinForm123\bin\Debug\WinForm123.exe
+C:\Users\Daria\source\repos\WinForm123\bin\Debug\WinForm123.pdb
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.Form1.resources
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.Form2.resources
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.Form3.resources
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.Properties.Resources.resources
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.csproj.GenerateResource.cache
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.exe
+C:\Users\Daria\source\repos\WinForm123\obj\Debug\WinForm123.pdb
