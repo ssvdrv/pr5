@@ -1,0 +1,11 @@
+C:\Users\Daria\source\repos\WinFormTest\bin\Debug\WinFormTest.exe.config
+C:\Users\Daria\source\repos\WinFormTest\bin\Debug\WinFormTest.exe
+C:\Users\Daria\source\repos\WinFormTest\bin\Debug\WinFormTest.pdb
+C:\Users\Daria\source\repos\WinFormTest\obj\Debug\WinFormTest.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\WinFormTest\obj\Debug\WinFormTest.Form1.resources
+C:\Users\Daria\source\repos\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+C:\Users\Daria\source\repos\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.cache
+C:\Users\Daria\source\repos\WinFormTest\obj\Debug\WinFormTest.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\WinFormTest\obj\Debug\WinFormTest.exe
+C:\Users\Daria\source\repos\WinFormTest\obj\Debug\WinFormTest.pdb
+C:\Users\Daria\source\repos\WinFormTest\obj\Debug\WinFormTest.Form2.resources
